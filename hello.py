@@ -1,3 +1,1 @@
-print('hello')
-print('hi')
-print('v2')
+print ('test')
